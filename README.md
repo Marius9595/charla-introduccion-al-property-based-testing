@@ -1,4 +1,4 @@
-# charla-introduccion-al-property-based-testing
+# [Charla] Introducción al testing basado en propiedades
 
 ## Presentación y Recursos
 
